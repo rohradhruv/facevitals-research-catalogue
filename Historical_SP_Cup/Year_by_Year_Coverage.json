@@ -1,0 +1,106 @@
+[
+  {
+    "year": 2014,
+    "title": "Image restoration / super-resolution for single-particle analysis",
+    "relationship_to_2027": "Low: image restoration concepts; different imaging domain.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2014",
+    "coverage": "Official SPS problem description reviewed; original conference link is historical.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2015,
+    "title": "Heart rate monitoring during physical exercise using wrist-type PPG signals",
+    "relationship_to_2027": "Highest: optical pulse extraction, strong motion interference and HR tracking.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2015",
+    "coverage": "Official SPS description/results, organizer data repo and related methods reviewed. Original detailed-task link failed.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2016,
+    "title": "Exploring power signatures for location forensics of media recordings",
+    "relationship_to_2027": "Moderate: weak periodic signal extraction and lighting interference.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2016",
+    "coverage": "Official description and post-competition specification located; several SigPort report fetches blocked.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2017,
+    "title": "Real-time beat tracking challenge",
+    "relationship_to_2027": "Moderate: causal periodicity tracking, ambiguity and embedded latency.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2017",
+    "coverage": "Official description and technical PDF reviewed; team code and official presentation collection located.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2018,
+    "title": "Forensic camera model identification",
+    "relationship_to_2027": "Moderate: camera-processing signatures and device generalization.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2018",
+    "coverage": "Official description reviewed; detailed-document link redirected to the current cup. Related author paper located.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2019,
+    "title": "Search and rescue with drone-embedded sound-source localization",
+    "relationship_to_2027": "Low: signal separation under interference; different modality.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2019",
+    "coverage": "Official problem description and organizer overview located.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2020,
+    "title": "Unsupervised abnormality detection using intelligent heterogeneous autonomous systems",
+    "relationship_to_2027": "Low: system-level validation and failure handling; different task.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2020",
+    "coverage": "Official description and winning-team interview reviewed.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2021,
+    "title": "Configuring an intelligent reflecting surface for wireless communications",
+    "relationship_to_2027": "Very low: no physiological or facial-video task overlap.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2021",
+    "coverage": "Official description and organizer repository located.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2022,
+    "title": "Synthetic speech attribution",
+    "relationship_to_2027": "Very low: generalization lessons only; audio forensics.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022",
+    "coverage": "Official problem description reviewed.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2023,
+    "title": "Psychosis classification from resting-state fMRI",
+    "relationship_to_2027": "Low: biomedical study-design context; different signal and target.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2023",
+    "coverage": "Official problem description/results reviewed; no facial-vitals solution identified.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2024,
+    "title": "ROBOVOX: far-field speaker recognition by a mobile robot",
+    "relationship_to_2027": "Low: robustness and multi-channel modeling; different modality.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2024",
+    "coverage": "Official problem description and system-description paper located.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2025,
+    "title": "DFWild-Cup: deepfake face detection in the wild",
+    "relationship_to_2027": "Limited: facial image/domain-shift evaluation, not pulse recovery.",
+    "source": "https://signalprocessingsociety.org/sites/default/files/uploads/community_involvement/docs/2025_spcup_official_doc.pdf",
+    "coverage": "Verified official 2025 PDF and DFCon paper; archive link ending 2025-0 incorrectly displays 2024 content.",
+    "checked": "2026-10-15"
+  },
+  {
+    "year": 2026,
+    "title": "AV Zoom: real-time audio-visual zooming on smartphones",
+    "relationship_to_2027": "Moderate: target isolation, live integration and compute budgeting.",
+    "source": "https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2026",
+    "coverage": "Official problem description/document and winner implementation summary located.",
+    "checked": "2026-10-15"
+  }
+]
